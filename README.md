@@ -1,6 +1,6 @@
 # Forca
 
-:us: This project served for me to learn how to mess with POO in python. So I decided to do it and despite knowing that the paradigm is underutilized and does not follow all the principles served me to fix the creation of classes in Python.
+:us: This project served for me to learn how to work with POO in python. So I decided to do it and despite knowing that the paradigm is underutilized and does not follow all the principles served me to fix the creation of classes in Python.
 
 He also managed to entertain the children here at home, which was worth a lot.
 
